@@ -25,3 +25,9 @@ int number_in_int = (int)38765.756;
 // На горячую: (int)number_dbl
 Console.WriteLine($"Обрубание дробной части у числа (38765.756) = {number_in_int}");
 
+
+/*
+PositiveInfinity - позитивная бесконеность
+NegativeInfinity - негативная бесконечность
+Nan - не является числом
+*/

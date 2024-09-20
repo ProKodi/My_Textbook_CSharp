@@ -37,7 +37,7 @@ ulong number_lng_pos = 98; // Так создается переменная с 
 Console.WriteLine($"number_lng_pos = {number_lng_pos}");
 
 
-//Int128 - 16 байт 
+//Int128 - 16 байт. Аналог: decimal (нужен для финансов) (Значения: [1.010^-28; 7.910^28]).
 System.Int128 number_128 = 4; // Так создается переменная с целочисленым типом данных
 Console.WriteLine($"number_128 = {number_128}");
 //UInt128 - 16 байт 
